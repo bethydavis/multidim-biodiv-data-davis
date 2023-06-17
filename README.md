@@ -15,6 +15,15 @@ Biodiversity researchers must work with an array of data types, including commun
 - Isaac Overcast
 - Andy Rominger
 
+## Links
+# Davis_MDBDWorkshop
+Repo for notes, files, and links from the roleR MDBD workshop (June 2023)
+
+Workshop GoogleSlides for participant intros: https://docs.google.com/presentation/d/1G0pAGwZ2nD27Bi9FZQ71TUE9V4DXUSr0Y1_-RVrI4Wg/edit#slide=id.g229846a136a_10_0
+
+Workshop Website (Part 1): https://role-model.github.io/multidim-biodiv-data/
+
+
 ## Funding Support
 
 We gratefully acknowledge funding support from NSF awards [DBI-2208901](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2208901&HistoricalAwards=false) to Renata Diaz and [DBI-2104147](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2104147&HistoricalAwards=false) to the [RoLE model team](https://role-model.github.io/)
